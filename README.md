@@ -56,9 +56,3 @@ The modified nursery dataset consists of approximately 13,000 data points, with 
 
 **Target Variable**
 - `target`: Nursery-School Applications (very_recom, recommend, not_recom, priority, spec_prior)
-
-
-
-```python
-
-```
