@@ -5,7 +5,7 @@
 
 ## Project Description:
 
-In this project, we will employ several supervised algorithms of our choice to accurately model individuals' income from a hierarchical decision model developed to rank applications for nursery schools. we will then choose the best candidate algorithm from preliminary results and further optimize this algorithm to best model the data. our goal with this implementation is to construct a model that accurately predicts the ranking of nursery-school applications. Nursery Database was derived from a hierarchical decision model originally developed to rank applications for nursery schools. It was used for several years in the 1980s when there was excessive enrollment in these schools in Ljubljana, Slovenia, and the rejected applications frequently needed an objective explanation. The dataset for this project originates from the UCI Machine Learning Repository.
+In this project, we will employ several supervised algorithms of our choice to rank applications for nursery schools accurately. we will then choose the best candidate algorithm from preliminary results and further optimize this algorithm to best model the data. our goal with this implementation is to construct a model that accurately predicts the ranking of nursery-school applications. Nursery Database was derived from a hierarchical decision model originally developed to rank applications for nursery schools. It was used for several years in the 1980s when there was excessive enrollment in these schools in Ljubljana, Slovenia, and the rejected applications frequently needed an objective explanation. The dataset for this project originates from the UCI Machine Learning Repository.
 
 ---
 
